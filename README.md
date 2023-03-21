@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20123034/sheikh-rahmatulla-sakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20123034/sheikh-rahmatulla-sakib" height="30" width="40" /></a>
 <a href="https://kaggle.com/kishorsakib099413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kishorsakib099413" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kishor.sakib.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kishor.sakib.5/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kishor.sakib.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kishor.sakib.5/" height="30" width="40" /></a>
 <a href="https://instagram.com/kishor.jpeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kishor.jpeg" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kishor10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kishor10" height="30" width="40" /></a>
 </p>
