@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1kishor0&label=Profile%20views&color=0e75b6&style=flat" alt="1kishor0" /> </p>
 
-- 🔭 I’m currently working on **Bone Marrow Cancer Detection and classification (ALL,AML) & Plasma Cell Cancer (MM) using Deep learning**
+- 🔭 I’m currently working on **Banking Solutions Development Department in LEADS Corporation**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
